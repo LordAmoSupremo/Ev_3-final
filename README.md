@@ -3,7 +3,7 @@ Usuario y contraseña para acceder al sistema.
 - Contraseña: Raptor556#
 
 Instalación y configuración: 
-Dentro del archivo Ev_3 del repositorio, se encuentra la carpeta Out, dentro de ella se encuenetra el archivo JAR del programa. 
+- Dentro del archivo Ev_3 del repositorio, se encuentra la carpeta Out, dentro de ella se encuenetra el archivo JAR del programa. 
 Tambien debemos tener la base de datos del repositorio instalada en MYSQL Workbench en localhost:3306, ademas del conector a la base de datos en nuestro equipo. 
 Para ejecutar el porgrama, lo podemos realizar desde CMD (en windows):
 1. Descargar el JAR en nuestro equipo, posteriormente revisar en que ruta esta almacenado.
