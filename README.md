@@ -1,6 +1,6 @@
 Usuario y contraseña para acceder al sistema. 
-Usuario: ADMIN01 
-Contraseña: Raptor556#
+- Usuario: ADMIN01 
+- Contraseña: Raptor556#
 
 Instalación y configuración: 
 Dentro del archivo Ev_3 del repositorio, se encuentra la carpeta Out, dentro de ella se encuenetra el archivo JAR del programa. 
