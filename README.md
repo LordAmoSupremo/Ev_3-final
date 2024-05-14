@@ -1,5 +1,5 @@
 Usuario y contraseña para acceder al sistema. 
-USUARIO: ADMIN01 
+Usuario: ADMIN01 
 Contraseña: Raptor556#
 
 Instalación y configuración: 
